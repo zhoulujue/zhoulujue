@@ -3,6 +3,6 @@
 ### Hi, I'm Michael Zhou 👋
 
 - :orange_book: Focusing on Android/iOS/Flutter.
-- :hammer: Currently working at @ByteDance as Senior SDE.
+- :hammer: Currently working at @ByteDance.
 - 🧗‍♂️ Love hiking/camping
 - 📫 reach me via zhoulujue@gmail.com
