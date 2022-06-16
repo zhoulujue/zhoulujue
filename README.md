@@ -3,6 +3,6 @@
 ### Hi, I'm Michael Zhou 👋
 
 - 🧑🏻‍💻 Now Coding on Android/iOS/Flutter.
-- :hammer: Currently working at @ByteDance.
+- :hammer: Currently working at @TikTok.
 - 🧗‍♂️ Love hiking/camping.
 - 📫 reach me via zhoulujue@gmail.com
