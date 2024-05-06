@@ -2,7 +2,7 @@
 
 ### Hi, I'm Michael Zhou 👋
 
-- 🧑🏻‍💻 Now Coding on Android/iOS/Flutter.
+- 🧑🏻‍💻 Now Coding on GoLang/Android/iOS/Flutter.
 - :hammer: Currently working at @TikTok.
 - 🧗‍♂️ Love hiking/camping.
 - 📫 reach me via zhoulujue@gmail.com
